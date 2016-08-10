@@ -11,6 +11,9 @@ color:
     - '#5C6B73'
     - '#253237'
 layout_spectrum: 0.09601706964895129
+author:
+  name: Randy Cha
+  email: randall.cha@gmail.com
 name: tradexperts.com.sg
 title: Coming Soon
 description: We deliver
