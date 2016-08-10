@@ -1,4 +1,3 @@
-layout_spectrum: 0.09601706964895129
 typography_spectrum: 0.1682180971838534
 color:
   brandStrength: 0.9048427881207317
@@ -6,9 +5,11 @@ color:
   saturation: 0.3235917240381241
   rhythmicContrast: 0.1499124125111848
   brandColors:
-    - '#85DB18'
-    - '#CDE855'
-    - '#F5F6D4'
-    - '#A7C520'
-    - '#493F0B'
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+layout_spectrum: 0.09601706964895129
 name: tradexperts.com.sg
+title: Coming Soon
