@@ -1,0 +1,14 @@
+layout_spectrum: 0.09601706964895129
+typography_spectrum: 0.1682180971838534
+color:
+  brandStrength: 0.9048427881207317
+  lightness: 0.14799058553762734
+  saturation: 0.3235917240381241
+  rhythmicContrast: 0.1499124125111848
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+name: tradexperts.com.sg
